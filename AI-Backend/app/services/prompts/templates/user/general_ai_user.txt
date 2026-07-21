@@ -1,0 +1,7 @@
+Conversation History:
+{history}
+
+Current User Question:
+{user_query}
+
+Remember your core directives. Provide a high-quality educational response.
